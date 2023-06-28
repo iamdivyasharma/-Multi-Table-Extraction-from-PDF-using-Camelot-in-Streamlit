@@ -1,3 +1,5 @@
+
+https://github.com/iamdivyasharma/-Multi-Table-Extraction-from-PDF-using-Camelot-in-Streamlit/assets/66716367/7b2b6b97-c0e0-409d-9106-d12c391c9505
 ## Multi-Table Extraction from PDF using Camelot in Streamlit
 
 
@@ -8,3 +10,7 @@ The app utilizes Camelot's read_pdf function with the stream flavor to extract t
 For each extracted table, the app provides a download button to save it as an Excel file. Each Excel file is named based on the table number, making it convenient to manage and organize the extracted tables.
 
 With this app, you can efficiently extract multiple tables from a PDF and easily download them in Excel format for further analysis or use in other applications.
+## DEMO
+
+https://github.com/iamdivyasharma/-Multi-Table-Extraction-from-PDF-using-Camelot-in-Streamlit/assets/66716367/b315a7c1-08f8-41b2-9d00-a031072317e1
+
