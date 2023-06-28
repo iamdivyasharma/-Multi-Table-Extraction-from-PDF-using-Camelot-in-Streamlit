@@ -1,5 +1,4 @@
 
-https://github.com/iamdivyasharma/-Multi-Table-Extraction-from-PDF-using-Camelot-in-Streamlit/assets/66716367/7b2b6b97-c0e0-409d-9106-d12c391c9505
 ## Multi-Table Extraction from PDF using Camelot in Streamlit
 
 
